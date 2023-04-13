@@ -9,7 +9,7 @@
   </head>
   <body>
 <!--      start navbar-->
-      @include("navbar")
+
 <!--      end navbar-->
 <!--     start body content-->
     @yield("body_content")

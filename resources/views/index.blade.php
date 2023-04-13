@@ -31,25 +31,5 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-<!--end carousel-->
-<!--animated card-->
-<div class="l-container">
-  <div class="b-game-card">
-    <div class="b-game-card__cover">
-      <img src="https://assets.ajio.com/cms/AJIO/WEB/D-UHP-Hidden%20Gems%20-P4-Brands-30-50.jpg"alt="blank" >
-      </div>
-  </div>
-  <div class="b-game-card">
-    <div class="b-game-card__cover" style="background-image: url(https://assets.ajio.com/cms/AJIO/WEB/D-UHP-Hidden%20Gems%20-P2-Brands-40-70.jpg);">
-      <img src="https://assets.ajio.com/cms/AJIO/WEB/D-UHP-Hidden%20Gems%20-P2-Brands-40-70.jpg"alt="blank" >
-      </div>
-  </div>
-  <div class="b-game-card">
-    <div class="b-game-card__cover" style="background-image: url(https://assets.ajio.com/cms/AJIO/WEB/D-UHP-Hidden%20Gems%20-P1-Brands-30-60.jpg);">
-      <img src="https://assets.ajio.com/cms/AJIO/WEB/D-UHP-Hidden%20Gems%20-P1-Brands-30-60.jpg"alt="blank" >
-      </div>
-  </div>
-</div>
-<!--end animated card-->
-@include('slider')
+
 @endsection 
